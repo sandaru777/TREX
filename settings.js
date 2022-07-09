@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              TREX 𝓫𝔂 TISHAN HASIDU
+//                              RXE 𝓫𝔂 SANDARU NETHSARA
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94703413075']
-global.premium = ['94703413075']
-global.ownernomer = '94703413075'
-global.ownername = '🐦TISHAN HASIDU'
-global.botname = 'TREX'
-global.footer = '©TISHAN HASIDU.'
+global.owner = ['94764497078']
+global.premium = ['94764497078']
+global.ownernomer = '94764497078'
+global.ownername = '🗿SANDARU NETHSARA'
+global.botname = 'RXE'
+global.footer = '©SANDARU NETHSARA.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'TREX'
+global.packname = 'RXE'
 global.author = '🐦TISHAN HASIDU'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
